@@ -1,0 +1,6 @@
+{
+  "name": "Scirian Voice Command System",
+  "description": "Intelligent student productivity platform with natural voice commands, study planner, interactive quizzes, note-taking, and learning analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
